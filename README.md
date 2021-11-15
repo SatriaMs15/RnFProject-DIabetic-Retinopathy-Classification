@@ -7,6 +7,13 @@ Description :
 
 3. This project is using GUI based for UI
 
+*note : Please download pre trained model in this link :
+
+https://drive.google.com/file/d/1Vs_zOdJmvMCFuC-s07CspKFhTr--gM9M/view?usp=sharing
+
+and put into "ModelML" Folder
+
+
 File Description :
 - "Preprocessing_Image.ipynb" notebook for preprocessing 
 - "Program_Diabetes_Reniopati.ipynb" notebook for traning image using CNN
