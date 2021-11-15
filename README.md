@@ -13,7 +13,7 @@ File Description :
 - "GUI" Folder , program for the detection, please run "main.py" to strat the program
 
 Diabetic Retinopathy Classification:
-
+![image](https://user-images.githubusercontent.com/93510081/141827214-0e7b8874-f326-4bb7-b8ab-f03cef88a2e2.png)
 
 
 For information contact me : msstarsatria@gmail.com
